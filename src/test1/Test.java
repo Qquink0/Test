@@ -5,6 +5,6 @@ public class Test {
         test1();
     }
     private static void test1() {
-        System.out.println("Helow world");
+        System.out.println("Hello world");
     }
 }
